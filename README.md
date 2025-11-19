@@ -14,7 +14,7 @@ Useful for small or mid-sized architectures where dependency injection framework
 4. Paste the following URL and click **Add**:
 
    ```text
-   https://github.com/fapoli/ServiceLocator.git
+   https://github.com/fapoli/MoodyLib.ServiceLocator.git
    ```
 
 Unity will download and install the package. After installation, it will appear under the **Packages** folder.
